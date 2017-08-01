@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1113e2a6-89d1-46f0-b79c-a296afa4304d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Sum 3 Numbers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2. Calculate Sum and VAT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3. Letter Occurences In String.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4. Filter By Age.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.String of Number.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Silvena.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Lab Control-Flow Logic/1. Multiply Numbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Lab Control-Flow Logic/2. Boxes and Bottles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Lab Control-Flow Logic/3. Leap Year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Lab Control-Flow Logic/4. Circle Area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Lab Control-Flow Logic/5. Triangle Area.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6. Figure Area.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/7.Next Day.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8. Distance between Points.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.Intro JS/6. Figure Area.js" afterPath="$PROJECT_DIR$/01.Intro JS/6. Figure Area.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.Intro JS/8. Distance between Points.js" afterPath="$PROJECT_DIR$/01.Intro JS/8. Distance between Points.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +30,64 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="1. Multiply Numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/1. Multiply Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#multiply#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2. Boxes and Bottles.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/2. Boxes and Bottles.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#boxesBottles#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3. Leap Year.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/3. Leap Year.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5. Triangle Area.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/5. Triangle Area.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4. Circle Area.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/4. Circle Area.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#circleArea#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +105,11 @@
         <option value="$PROJECT_DIR$/6. Figure Area.js" />
         <option value="$PROJECT_DIR$/07.Next Day.js" />
         <option value="$PROJECT_DIR$/8. Distance between Points.js" />
+        <option value="$PROJECT_DIR$/02.Lab Control-Flow Logic/1. Multiply Numbers.js" />
+        <option value="$PROJECT_DIR$/02.Lab Control-Flow Logic/2. Boxes and Bottles.js" />
+        <option value="$PROJECT_DIR$/02.Lab Control-Flow Logic/4. Circle Area.js" />
+        <option value="$PROJECT_DIR$/02.Lab Control-Flow Logic/3. Leap Year.js" />
+        <option value="$PROJECT_DIR$/02.Lab Control-Flow Logic/5. Triangle Area.js" />
       </list>
     </option>
   </component>
@@ -61,10 +126,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="15" />
-    <option name="y" value="119" />
+    <option name="x" value="-325" />
+    <option name="y" value="254" />
     <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -98,6 +163,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Fund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Fund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02.Lab Control-Flow Logic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -112,14 +191,20 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.8. Distance between Points.js">
-    <configuration default="false" name="6. Figure Area.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="6. Figure Area.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="07.Next Day.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/7.Next Day.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.4. Circle Area.js">
     <configuration default="false" name="8. Distance between Points.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="8. Distance between Points.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="1. Multiply Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1. Multiply Numbers.js" working-dir="$PROJECT_DIR$/02.Lab Control-Flow Logic">
+      <method />
+    </configuration>
+    <configuration default="false" name="2. Boxes and Bottles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="2. Boxes and Bottles.js" working-dir="$PROJECT_DIR$/02.Lab Control-Flow Logic">
+      <method />
+    </configuration>
+    <configuration default="false" name="3. Leap Year.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="3. Leap Year.js" working-dir="$PROJECT_DIR$/02.Lab Control-Flow Logic">
+      <method />
+    </configuration>
+    <configuration default="false" name="4. Circle Area.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="4. Circle Area.js" working-dir="$PROJECT_DIR$/02.Lab Control-Flow Logic">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -175,21 +260,28 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.6. Figure Area.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.07.Next Day.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.8. Distance between Points.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.8. Distance between Points.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.1. Multiply Numbers.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.2. Boxes and Bottles.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.3. Leap Year.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.4. Circle Area.js" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.8. Distance between Points.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.07.Next Day.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.6. Figure Area.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.4. Circle Area.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.3. Leap Year.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.2. Boxes and Bottles.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.1. Multiply Numbers.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.8. Distance between Points.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -198,23 +290,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501573539173</updated>
-      <workItem from="1501573541362" duration="2025000" />
+      <workItem from="1501573541362" duration="7623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2025000" />
+    <option name="totallyTimeSpent" value="7623000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="119" width="1378" height="744" extended-state="0" />
+    <frame x="-325" y="254" width="1378" height="731" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0880597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15820895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -258,6 +350,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/1. Multiply Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#multiply#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/2. Boxes and Bottles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#boxesBottles#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/4. Circle Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#circleArea#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/3. Leap Year.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Lab Control-Flow Logic/5. Triangle Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
